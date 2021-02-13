@@ -1,6 +1,7 @@
 name: 'uncrustify-check'
 author: 'mib <mib@mib.dev>'
 description: 'Checks if code is properly formatted using uncrustify'
+
 branding:
     icon: 'type'
     color: 'purple'
